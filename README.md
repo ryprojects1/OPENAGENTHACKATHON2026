@@ -179,3 +179,17 @@ Date	Milestone	What You Should Do
 20 October, 00:00	Judging opens	Judging begins while final submissions come in.
 20 October, 23:45	Submissions close	Hard deadline. Submit all required materials.
 30 October, 16:00	Results announced	Live results call on HackOS.
+
+7. How to Get Set Up on HackOS
+HackOS runs all hackathon operations. Everything during the event happens there.
+
+Use HackOS to:
+
+Receive official announcements.
+Access challenge pages and resources.
+Watch sponsor workshop recordings.
+Find teammates and create or manage your team.
+Attend mentor office hours.
+Ask technical questions in the #help desk channel.
+Submit your project.
+Join the live results call.
