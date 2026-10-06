@@ -193,3 +193,17 @@ Attend mentor office hours.
 Ask technical questions in the #help desk channel.
 Submit your project.
 Join the live results call.
+
+#Security rule
+Never commit API keys or credentials.
+
+Do not place real keys in:
+
+Repository files
+README.md
+Notebooks
+Screenshots
+Logs
+.env.example
+Keep secrets in a local .env file, add it to .gitignore, and include a .env.example with placeholder values only.
+
