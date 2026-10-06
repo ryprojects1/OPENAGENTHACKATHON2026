@@ -55,3 +55,6 @@ Final Agent produces answer
 Solving Fragmented Intelligence	Demonstrate a clever ability to discover and work across fragmented data sources.
 2	The Agent That Can Explain Why	Build agents that investigate complex questions across multiple data sources, connect findings, and produce evidence-backed answers or recommendations.
 3	Reasoning Architecture	Demonstrate a novel ability to turn data, knowledge, memory, and reasoning into reliable decisions and actions.
+Bonus track: Wildcard [Tinkerer]: Bring Your Own Project
+Track	What You Build	Sponsor Technology
+Wildcard [Tinkerer]	Bring an existing project, prototype or concept and extend it using Zetaris and Meterless. Judged on the same criteria as the other tracks and scored on the new work rather than prior development.	Zetaris, Meterless
