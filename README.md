@@ -7,6 +7,15 @@ Participant onboarding	14 October 2026, 16:00–17:30 UTC (9:00–10:30 AM PT)
 Build window	15 October 2026, 00:00 UTC to 20 October 2026, 23:45 UTC
 Submissions close	20 October 2026, 23:45 UTC
 Results announced	30 October 2026, 16:00 UTC
+#What You Need to Submit
+Submissions close on 20 October 2026 at 23:45 UTC. This is a hard deadline. Submit through HackOS.
+
+Component	Requirement
+Demo video	1–4 minutes, showing the main workflow, how the agent solves the selected challenge, its key features, and how Zetaris and Meterless are integrated
+Slide deck	The problem and target users, the solution, the agent workflow or architecture, the technical stack, how Zetaris and Meterless were used, what was unique about your use of the sponsor technologies, product visuals, and future enhancements
+GitHub repository	All source code and a README covering setup, usage and dependencies. If your agents run in Google Colab, include the Colab links
+Sponsor technology explanation	How Zetaris and Meterless were integrated, how Cursor was used during development, where NVIDIA technology contributes, and what was unique about your use of the sponsor technologies
+
 #Rule
 - build ai agent
 - using sponsor technology to handle technical plumbing
