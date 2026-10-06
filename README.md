@@ -50,3 +50,8 @@ Research Agent retrieves new context
 Executor reruns task
 Evaluator approves or requests another iteration
 Final Agent produces answer
+
+# 3 Tracks
+Solving Fragmented Intelligence	Demonstrate a clever ability to discover and work across fragmented data sources.
+2	The Agent That Can Explain Why	Build agents that investigate complex questions across multiple data sources, connect findings, and produce evidence-backed answers or recommendations.
+3	Reasoning Architecture	Demonstrate a novel ability to turn data, knowledge, memory, and reasoning into reliable decisions and actions.
