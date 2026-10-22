@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wait Time Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <span class="header-title">Wait Time Tracker</span>
+      <span class="header-tag">Student project</span>
+    </div>
+  </header>
+
+  <div class="notice">
+    <div class="container">
+      This is an unofficial tool. It is not run by or connected to the NHS.
+    </div>
+  </div>
+
+  <main class="container main">
+    <h1>Compare hospital waiting times</h1>
+    <p class="lead">Search for a treatment to see estimated waiting times at hospital trusts near you, based on public NHS data.</p>
+
+    <form id="search-form" class="search-form">
+      <div class="form-group">
+        <label for="treatment">Treatment</label>
+        <input type="text" id="treatment" name="treatment" placeholder="e.g. knee replacement">
+      </div>
+
+      <div class="form-group">
+        <label for="location">Location</label>
+        <input type="text" id="location" name="location" placeholder="e.g. Surrey">
+      </div>
+
+      <button type="submit" class="button">Search</button>
+    </form>
+
+    <div id="results" aria-live="polite"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Built for the Open Agent Hackathon 2026. Waiting times are estimates and may be out of date. For medical advice, speak to your GP.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
