@@ -22,11 +22,9 @@ form.addEventListener("submit", async function (event) {
   let usingExamples = false;
 
   try {
-    const response = await fetch(API_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ treatment: treatment, location: location })
-    });
+    // The backend takes a single "q" query parameter
+    const query = (treatment + " " + location).trim();
+    const response = await fetch(API_URL + "?q=" + encodeURIComponent(query));
     if (!response.ok) {
       throw new Error("Server error " + response.status);
     }
